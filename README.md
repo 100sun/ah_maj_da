@@ -1,6 +1,6 @@
 # AH, MAJ-DA
 
-*"Ah, maj-da" can be translated into English as "Yes, I got it". Koreans use this a lot when they forget something and remember it.*
+*"Ah, maj-da" can be translated into English as "Yes, I got it". Koreans use this a lot when they forget something and remember it.*<br/>
 **Mobile Application for Android which support to-do-list proximity alarm within 500m radius, fine dust and weather alarm**
 
 
@@ -48,10 +48,10 @@ Our members develop this **together**. The description for each part is just our
   (For example, if users set a bank, we allow them to receive notifications from nearby branches if they want to.)
 * Modify the radius for which the users want to be notified.
 * Support other languages version and other countries
-Always welcome to contribute! 
+Always welcome to contribute! <br/>
 Also feel free to share any other ideas or suggestions. 
 
-<!-->
+<!--
 ### License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
@@ -64,4 +64,4 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
-<!-->
+-->
