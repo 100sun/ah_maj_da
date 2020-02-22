@@ -1,7 +1,7 @@
 # AH, MAJ-DA
 
 *"Ah, maj-da" can be translated into English as "Yes, I got it". Koreans use this a lot when they forget something and remember it.*<br/>
-### **Mobile Application for Android which support to-do-list proximity alarm within 500m radius, fine dust and weather alarm<br/><br/>** 
+### **Mobile Application for Android which support to-do-list proximity alarm, fine dust and weather alarm<br/><br/>** 
 
  
 ## Business Potential
@@ -11,8 +11,8 @@
 ## The Overview of Files by our Main Functions
 
 * Set To-Do-List by **space**
-* **Proximity** Alert using Google Map API
-* **Weather** Alert : Fine Dust / Umbrella
+* **Proximity** Alert using Google Map API within 500m radius
+* **Weather** Alert : Fine Dust / Umbrella within 100m radius from home
 <br/>![files](/images/files.png)
 
 
@@ -22,7 +22,9 @@
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
+
 ## The Overview of Database
+
 <br/>![db](/images/db.png)
 
 
