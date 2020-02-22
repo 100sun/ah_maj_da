@@ -1,11 +1,11 @@
 # AH, MAJ-DA
 
 *"Ah, maj-da" can be translated into English as "Yes, I got it". Koreans use this a lot when they forget something and remember it.*<br/>
-### **Mobile Application for Android which support to-do-list proximity alarm within 500m radius, fine dust and weather alarm**
+### **Mobile Application for Android which support to-do-list proximity alarm within 500m radius, fine dust and weather alarm<br/><br/>** 
 
-
+ 
 ## Business Potential
-![biz](biz.png)
+<br/>![biz](biz.png)
 
 
 ## The Overview of Files by our Main Functions
@@ -13,7 +13,7 @@
 * Set To-Do-List by **space**
 * **Proximity** Alert using Google Map API
 * **Weather** Alert : Fine Dust / Umbrella
-![files](/images/files.png)
+<br/>![files](/images/files.png)
 
 
 ## Built With
@@ -23,12 +23,12 @@
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## The Overview of Database
-![db](/images/db.png)
+<br/>![db](/images/db.png)
 
 
 ## Contributers
 
-![members](/images/members.png)
+<br/>![members](/images/members.png)
 Our members develop this **together**. The description for each part is just our main contributing work.
 * **Sun-Hye Baek** - *Back-end Developer* - [100sun](https://github.com/100sun)
 * **Chae-Won Kim** - *Database Manager* - [chaeppy](https://github.com/chaeppy)
@@ -37,12 +37,12 @@ Our members develop this **together**. The description for each part is just our
 
 ## Lessons
 
-![lessons](/images/lessons.png)
+<br/>![lessons](/images/lessons.png)
 
 
 ## PLAN
 
-![plan](/images/plan.png)
+<br/>![plan](/images/plan.png)
 * Expand the coverage area nationwide by using more fine dust api
 * Expand the notifications of other branches alongside the place where the users set
   (For example, if users set a bank, we allow them to receive notifications from nearby branches if they want to.)
