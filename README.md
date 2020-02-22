@@ -48,9 +48,8 @@ Our members develop this **together**. The description for each part is just our
 * Expand the notifications of other branches alongside the place where the users set
   (For example, if users set a bank, we allow them to receive notifications from nearby branches if they want to.)
 * Modify the radius for which the users want to be notified.
-* Support other languages version and other countries
-Always welcome to contribute! <br/>
-Also feel free to share any other ideas or suggestions. 
+* Support other languages version and other countries<br/>
+### Contributions Welcome! <br/> Also feel free to share any other ideas or suggestions. 
 <br/>![plan](/images/plan.png)<br/>
 
 <!--
