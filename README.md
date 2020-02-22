@@ -1,11 +1,11 @@
 # AH, MAJ-DA
 
 *"Ah, maj-da" can be translated into English as "Yes, I got it". Koreans use this a lot when they forget something and remember it.*<br/>
-### **Mobile Application for Android which supports to-do-list proximity alarm, fine dust and rain alarm<br/><br/>** 
+### **Mobile Application for Android which supports to-do-list proximity alarm, fine dust and rain alarm<br/>** 
 
  
 ## <br/> Business Potential
-<br/><br/>![biz](images/biz.png)
+<br/>![biz](images/biz.png)<br/>
 
 
 ## <br/> The Overview of Files by our Main Functions
@@ -13,7 +13,7 @@
 * Set To-Do-List by **space**
 * **Proximity** Alert using Google Map API within 500m radius
 * **Weather** Alert : Mask for the Fine Dust  / Umbrella within 100m radius from home
-<br/><br/>![files](/images/files.png)
+<br/>![files](/images/files.png)<br/>
 
 
 ## <br/> Built With
@@ -25,26 +25,25 @@
 
 ## <br/> The Overview of Database
 
-<br/><br/>![db](/images/db.png)
+<br/>![db](/images/db.png)<br/>
 
 
 ## <br/> Contributers
 
-<br/><br/>![members](/images/members.png)
 Our members develop this **together**. The description for each part is just our main contributing work.
 * **Sun-Hye Baek** - *Back-end Developer* - [100sun](https://github.com/100sun)
 * **Chae-Won Kim** - *Database Manager* - [chaeppy](https://github.com/chaeppy)
 * **Hye-ryeong Jung** - *Front-end Developer* - [hryeong66](https://github.com/hryeong66)
+<br/>![members](/images/members.png)<br/>
 
 
 ## <br/> Lessons
 
-<br/><br/>![lessons](/images/lessons.png)
+<br/>![lessons](/images/lessons.png)<br/>
 
 
 ## <br/> PLAN
 
-<br/><br/>![plan](/images/plan.png)
 * Expand the coverage area nationwide by using more fine dust api
 * Expand the notifications of other branches alongside the place where the users set
   (For example, if users set a bank, we allow them to receive notifications from nearby branches if they want to.)
@@ -52,6 +51,7 @@ Our members develop this **together**. The description for each part is just our
 * Support other languages version and other countries
 Always welcome to contribute! <br/>
 Also feel free to share any other ideas or suggestions. 
+<br/>![plan](/images/plan.png)<br/>
 
 <!--
 ## <br/> License
