@@ -5,7 +5,7 @@
 
 
 ## Business Potential
-![biz](https://https://github.com/100sun/ah_maj_da/blob/master/images/biz.png)
+![biz](biz.png)
 
 
 ## The Overview of Files by our Main Functions
@@ -13,7 +13,7 @@
 * Set To-Do-List by **space**
 * **Proximity** Alert using Google Map API
 * **Weather** Alert : Fine Dust / Umbrella
-![files](https://https://github.com/100sun/ah_maj_da/blob/master/images/files.png)
+![files](/images/files.png)
 
 
 ## Built With
@@ -23,12 +23,12 @@
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## The Overview of Database
-![db](https://https://github.com/100sun/ah_maj_da/blob/master/images/db.png)
+![db](/images/db.png)
 
 
 ## Contributers
 
-![members](https://https://github.com/100sun/ah_maj_da/blob/master/images/members.png)
+![members](/images/members.png)
 Our members develop this **together**. The description for each part is just our main contributing work.
 * **Sun-Hye Baek** - *Back-end Developer* - [100sun](https://github.com/100sun)
 * **Chae-Won Kim** - *Database Manager* - [chaeppy](https://github.com/chaeppy)
@@ -37,12 +37,12 @@ Our members develop this **together**. The description for each part is just our
 
 ## Lessons
 
-![lessons](https://https://github.com/100sun/ah_maj_da/blob/master/images/lessons.png)
+![lessons](/images/lessons.png)
 
 
 ## PLAN
 
-![plan](https://https://github.com/100sun/ah_maj_da/blob/master/images/plan.png)
+![plan](/images/plan.png)
 * Expand the coverage area nationwide by using more fine dust api
 * Expand the notifications of other branches alongside the place where the users set
   (For example, if users set a bank, we allow them to receive notifications from nearby branches if they want to.)
