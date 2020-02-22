@@ -13,7 +13,7 @@
 * Set To-Do-List by **space**
 * **Proximity** Alert using Google Map API within 500m radius
 * **Weather** Alert : Mask for the Fine Dust  / Umbrella within 100m radius from home
-<br/>![files](/images/files.png)<br/>
+<br/><br/><br/>![files](/images/files.png)<br/>
 
 
 ## <br/> Built With
@@ -34,7 +34,7 @@ Our members develop this **together**. The description for each part is just our
 * **Sun-Hye Baek** - *Back-end Developer* - [100sun](https://github.com/100sun)
 * **Chae-Won Kim** - *Database Manager* - [chaeppy](https://github.com/chaeppy)
 * **Hye-ryeong Jung** - *Front-end Developer* - [hryeong66](https://github.com/hryeong66)
-<br/>![members](/images/members.png)<br/>
+<br/><br/><br/>![members](/images/members.png)<br/>
 
 
 ## <br/> Lessons
